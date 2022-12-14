@@ -3,7 +3,7 @@
 #include <cmath> 
 
 
-here is the calculation: 
+/*  here is the calculation: 
     360 / 7 * 500 = what is it in mandarin, what is it in binary code?
    circumference of the earth in binary?
 
@@ -15,16 +15,16 @@ here is the calculation:
     - Organize function with loops in difrente folder every distinction have to be recognized. 
     - Double loops will be in a special loop. 
 
-
+*/
 int main(){
   
-    Where things acordingly, in favor clarity? 
+  /*  Where things acordingly, in favor clarity? 
       1- We must learn why it worked?
       2- learn three facts about what went right?
       3- drink water every victory?
       4- function names shoud verbes or actions? 
       5- allow the reader to get out early? 
-
+*/
     return 0; 
 }
 
@@ -49,7 +49,7 @@ float function ( float condition )
     float instatenousChange; 
     float twoPoints; // this float variable will be for keep record of starting piont and now.
     
-    instatenousChange -   twoPoints = new; 
+    float new_position = instatenousChange -   twoPoints;
     
     return new; 
 
